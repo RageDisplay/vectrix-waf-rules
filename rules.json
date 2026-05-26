@@ -1,5 +1,5 @@
 {
-  "version": "4.5.0",
+  "version": "4.6.0",
   "published_at": "2026-05-26T00:00:00Z",
   "rules": [
     {"id":"sqli-union-all-select","module":"sqli","level":"low","name":"UNION ALL SELECT","pattern":"(?i)(union[\\s\\+]+all[\\s\\+]+select)","description":"UNION ALL SELECT variant","tags":["sqli","owasp-a03"]},
